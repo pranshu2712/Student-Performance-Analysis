@@ -5,10 +5,12 @@ It includes data cleaning, visualization, and insights about factors affecting s
 
 ## How to Run
 1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-Open the notebook:
+pip install -r requirements.txt
 
-bash
+markdown
 Copy code
+
+2. Open the notebook:
 jupyter notebook Student_Performance.ipynb
+
+Copy code
